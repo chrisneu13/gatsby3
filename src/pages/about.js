@@ -5,9 +5,9 @@ export default function About() {
   return (
       <Layout>
     <div>
-      <h1>About me</h1>
+      <h1>Alles über mich</h1>
       <p>
-        I’m good enough, I’m smart enough, and gosh darn it, people like me!
+        Das was ich immer mal über mich sagen wollte.
       </p>
     </div>
     </Layout>

@@ -5,7 +5,7 @@ export default function Contact() {
   return (
       <Layout>
     <div>
-      <h1>Uhrzeit 16.14 Wer mich kontakten will, koennte hier eine E-Mail schreiben und nochmal geaendert.</h1>
+      <h1>Dies ist eine Konaktmoeglichkeit. Hier koennt ihr eine E-Mail.</h1>
       <p>
         <a href="mailto:me@example.com">me@example.com</a>
       </p>

@@ -5,11 +5,11 @@ import { Link } from "gatsby"
 export default function Home() {
   return (
     <Layout>
-      <h1>Hi Chris!!! I'm building a fake Gatsby site as part of a tutorial!</h1>
+      <h1>Hi Chris!!! Dies ist deine erste gatsby - Anwendung!</h1>
       <p>
-        What do I like to do? Lots of course but definitely enjoy building
-        websites.
+        Ach ja Umlaute müssten auch funktionieren.
       </p>
+      <p>und noch ein Absatz</p>
       <div>
       <Link to="/contact/">Contact</Link>
     </div>
