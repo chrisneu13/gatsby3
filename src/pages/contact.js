@@ -1,5 +1,6 @@
 import React from "react"
 import Layout from "../components/layout"
+import ChnImage from '../components/ChnImage';
 
 export default function Contact() {
   return (
@@ -9,6 +10,7 @@ export default function Contact() {
       <p>
         <a href="mailto:me@example.com">me@example.com</a>
       </p>
+      <ChnImage />
     </div>
     </Layout>
   )
