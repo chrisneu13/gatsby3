@@ -6,7 +6,7 @@ export default function Contact() {
   return (
       <Layout>
     <div>
-      <h1>Dies ist eine blaue Konaktmoeglichkeit. Hier koennt ihr eine E-Mail.</h1>
+      <h1>Dies ist eine blaue Konaktmoeglichkeit am 8.1.22. Hier koennt ihr eine E-Mail.</h1>
       <p>
         <a href="mailto:me@example.com">me@example.com</a>
       </p>
