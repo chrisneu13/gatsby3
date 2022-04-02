@@ -25,6 +25,7 @@ export default function Home() {
       height={200}
     />
     <h1>Und so geht die Geschichte weiter</h1>
+<h2>2.4.2022<h2>
     <p>Des Menschen bester Freund ist der Hund und auch sonst begleiten uns alle möglichen Tiere überall hin.
       Was wäre der Mensch ohne seine besten Freunde? Wäre er überhaupt ein Mensch?       
        Denn wer erinnert sich nicht liebevoll an seinen erstes Meerschweinchen, Kleinkaninchen oder Wellensittich zurück?
